@@ -1,0 +1,36 @@
+body 
+{
+    margin: auto;
+    background-color: aquamarine;
+}
+#main{
+    background-color: white;
+    margin: auto;
+    width:700px;
+    padding: 100px;
+}
+
+h1 {
+    color: aquamarine;
+    font-variant-caps: small-caps;
+    font-weight: bold;
+    font-size: 70px;
+
+}
+h2{
+    font-variant-caps: small-caps;
+    font-weight: bold;
+    font-size: 40px;
+}
+li{
+    padding: 10px;
+}
+#.Result{
+    border: solid 2px red;
+    padding: 10px
+}
+button
+{
+    background-color: aqua;
+    font-size: 30px;
+}
